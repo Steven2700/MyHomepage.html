@@ -1,0 +1,13 @@
+Steven Navarrete -Chapter 1
+What I got from reading chapter one is that information systems are made up of different software and hardware components that all collectively gather, process, store,
+and redistribute data. The hardware components of the information systems include the things the user can physically touch like the keyboard or computer screens.
+However, the software components of the information systems include sets of instructions that directs what the hardware does. Software programs are really just a list 
+of instructions that tell the computer what to do. In addition, data plays a vital role in the effectiveness of information systems because if organized and indexed 
+correctly data can become a useful intrument businesses could use to uphold any agenda in mind. Ever since the late 1950s and 1960s, computers have gone a long way.
+They evolved from being refrigerator-sized monsters used for great amounts of calculations to personalized internet surfers. As computers became less and less
+expensive due to the increasing number of computer companies pumping out their own versions of the PC, businesses realized a need for their computers to share
+information with one another thus began the implementation of LAN and the Internet. During this implementation of a shared network among multiple computers paved the
+way for the establishment of the World Wide Web and with this the average PC would soon become more of a communications device than a computational device. And with
+the installment of the World Wide Web came the era of globalization where businesses around the globe would market their products and services through the
+internet in order to expand their clientbase and potentially increase annual earnings. The internet was viewed by many investers as a sort of digital gold mine because
+of how much potential for profit and success the internet can offer to those who can take advantage of its easy access.   
